@@ -48,7 +48,7 @@ To run this project locally, follow these steps:
 
 2. **Train the model:**
     ```python
-    python train_model.py
+    python detection.ipynb
     ```
 
 ### Running the Web Application
